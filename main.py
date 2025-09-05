@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Define the API endpoint and your API key
-API_KEY ='9a391d3cd10f9d5422e4e95d01c2df2d'
+API_KEY ='fca6f0cce730843ca8a24c6960632e64'
 URL = 'https://api.openweathermap.org/data/2.5/weather'
 
 # Function to fetch weather data
